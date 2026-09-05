@@ -58,8 +58,7 @@ If any of this overlaps with what your team's building, my inbox is open: **bara
 
 <br/>
 
-<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=BARAAABID&theme=dark&hide_border=true&background=0B0F14&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4&sideLabels=EAF7F4&dates=4A8F84" width="60%"/>
--->
+<!-- <img src="[https://github-readme-streak-stats.herokuapp.com/?user=BARAAABID&theme=dark&hide_border=true&background=0B0F14&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4&sideLabels=EAF7F4&dates=4A8F84](https://github-readme-streak-stats.herokuapp.com/?user=BARAAABID&theme=dark&hide_border=true&background=0B0F14&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4&sideLabels=EAF7F4&dates=4A8F84)" width="60%"/> -->
 
 <img src="./footer.svg" width="100%"/>
 
